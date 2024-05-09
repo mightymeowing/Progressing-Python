@@ -1,0 +1,6 @@
+word = input()
+
+def hashtag(word)
+    return '#' + word
+print(hashtag(word))
+
